@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ribka Septiani Natty | Finance and Accounting</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 2em 0;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .profile {
+            text-align: center;
+            padding: 2em 0;
+        }
+        .profile img {
+            border-radius: 50%;
+            width: 150px;
+        }
+        .contact, .education, .experience, .projects, .volunteering, .certifications, .skills {
+            background: white;
+            margin: 1em 0;
+            padding: 1em;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Ribka Septiani Natty</h1>
+    <p>Finance and Accounting</p>
+</header>
+
+<div class="container">
+
+    <section class="profile">
+        <img src="profile.jpg" alt="Ribka Septiani Natty">
+        <p>Bandung, West Java | +62 8575 6039 284 | <a href="mailto:RIBKASEPTIANII@GMAIL.COM">RIBKASEPTIANII@GMAIL.COM</a></p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:RIBKASEPTIANII@GMAIL.COM">RIBKASEPTIANII@GMAIL.COM</a></p>
+        <p>Phone: +62 8575 6039 284</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <p><strong>Universitas Advent Indonesia</strong> – West Bandung, West Java</p>
+        <p>Bachelor of Accounting, Expected July 2025</p>
+        <p>Cumulative GPA: 3.73/4.00</p>
+        <p>Relevant Courses: Advanced Financial Accounting, Accounting Information Systems, Taxation, Financial Management, Management Accounting, Cost Accounting and Auditing.</p>
+    </section>
+
+    <section class="experience">
+        <h2>Part-Time Experiences</h2>
+        <p><strong>Assistant of Business Office Accountant</strong>, Universitas Advent Indonesia, April – July 2024 (Expected)</p>
+        <ul>
+            <li>Reconciled over 150 transactions, including bank and third-party accounts.</li>
+            <li>Assisted in preparing comprehensive financial statements.</li>
+            <li>Executed closing procedures, ensuring accurate and timely financial reporting.</li>
+        </ul>
+
+        <p><strong>Assistant of Vice President of Student Affairs</strong>, Universitas Advent Indonesia, June – December 2023</p>
+        <ul>
+            <li>Improved attendance record management by creating Excel spreadsheets for 300+ students.</li>
+            <li>Processed and documented over 100 violation records using Microsoft Word.</li>
+        </ul>
+
+        <p><strong>Secretary to the Dean of the Faculty of Economics</strong>, Universitas Advent Indonesia, April – June 2023</p>
+        <ul>
+            <li>Drafted and prepared official correspondence and crucial student documents.</li>
+            <li>Compiled and organized data for faculty accreditation.</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>University Projects</h2>
+        <p><strong>Management Accounting Project – Master Budgeting</strong>, March 2024</p>
+        <ul>
+            <li>Developed an Excel-based budgeting system, improving efficiency by 20%.</li>
+            <li>Identified and eliminated $45,000 in unnecessary expenses.</li>
+        </ul>
+
+        <p><strong>Financial Management Project – Financial Analysis</strong>, January – April 2023</p>
+        <ul>
+            <li>Analyzed financial ratios to identify company trends and track loss factors.</li>
+            <li>Conducted sensitivity analysis to optimize cost-saving decisions.</li>
+        </ul>
+
+        <p><strong>Financial Accounting Practical Laboratory – Accurate Software</strong>, January – April 2023</p>
+        <ul>
+            <li>Transferred and organized company databases into Accurate accounting software.</li>
+            <li>Executed journal entry cases and generated comprehensive financial statements.</li>
+        </ul>
+    </section>
+
+    <section class="volunteering">
+        <h2>Volunteering Experiences</h2>
+        <p><strong>Leader of SME Economics Volunteer Team – Suci Photocopy</strong>, February – March 2024</p>
+        <ul>
+            <li>Developed an accounting information system using ERP software Odoo.</li>
+            <li>Reduced report processing time by 91%.</li>
+        </ul>
+
+        <p><strong>Leader of SME Economics Volunteer Team – Syfa Tofu Factory</strong>, November – December 2023</p>
+        <ul>
+            <li>Collected data to calculate costs and create financial statements.</li>
+            <li>Implemented Excel-based financial models to support decision-making.</li>
+        </ul>
+
+        <p><strong>Leader of SME Economics Volunteer Team – Putra Bungsu Crispy Tofu</strong>, October – November 2023</p>
+        <ul>
+            <li>Designed and implemented a QRIS payment system, increasing payment efficiency.</li>
+            <li>Attracted additional customers, boosting sales.</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>EF SET English Certification Test – EF Standard English Test (C2 Proficient)</li>
+            <li>Bootcamp Excel Karirnexus – KarirNex by Ebizmark (Advanced)</li>
+            <li>RevoU Mini Course Data Analyst – RevoU Online Learning Academy</li>
+            <li>Create Financial Statement by Microsoft Excel – Coursera Inc.</li>
+            <li>Creating Budget with Excel – Coursera Inc.</li>
+            <li>Belajar Dasar-Dasar Keuangan Secara Holistik – ZilLearn</li>
+            <li>Mastery Public Speaking – ZilLearn</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Skills, Publications, and Other Experience</h2>
+        <p><strong>Hard Skills:</strong> Microsoft Office (Excel, PowerPoint, Word), Google Spreadsheet, ERP Odoo, Accurate, Looker Studio.</p>
+        <p><strong>Relevant Skills:</strong> Accounting Cycle, Financial Statement, Risk Management, Budgeting, Pricing Decision.</p>
+        <p><strong>Soft Skills:</strong> Teamwork, Adaptive and Willingness to Learn, Responsible, Fast Learner.</p>
+        <p><strong>Publication:</strong> Modernisasi Pengelolaan Inventaris Usaha Mikro, Kecil, Dan Menengah, Studi Kasus: Fotokopi Suci Kecamatan Parongpong (DINAMISIA) (February 2024 – Present)</p>
+        <p><strong>Other Experience:</strong> Owned Personal Business “Yopi Yogurt” and handmade flower bouquets.</p>
+    </section>
+
+</div>
+
+<footer>
+    <p>&copy; 2024 Ribka Septiani Natty. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
